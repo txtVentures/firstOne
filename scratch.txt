@@ -1,3 +1,6 @@
 
 
 good morning P - this is a tst on line one
+
+here is the new line on scratch.txt
+
